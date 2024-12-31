@@ -1,1 +1,1 @@
-# redu-o_bairesdevAI
+# AI-reduçao_de_dimensionalidade_bairesdev
